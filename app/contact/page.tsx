@@ -142,7 +142,7 @@ sales@northvexglobal.com
 <p className="font-semibold text-blue-400">Phone</p>
 
 <p className="mt-2 text-lg font-semibold">
-+1 (000) 000-0000
++1(469) 659-6475
 </p>
 </div>
 
