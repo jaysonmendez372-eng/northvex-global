@@ -1,5 +1,7 @@
-import Link from "next/link";
+"use Client";
 
+import Link from "next/link";
+import { motion } from "framer-motion";
 const stats = [
 {
 value: "Global",
@@ -118,9 +120,9 @@ description:
 
 export default function HomePage() {
 return (
-<main className="min-h-screen bg-[#080d16] text-white">
+<main className="min-h-screen bg-trasparent text-white">
 {/* Navigation */}
-<header className="fixed left-0 right-0 top-0 z-50 border-b border-white/10 bg-[#080d16]/80 backdrop-blur-xl">
+<header className="fixed left-0 right-0 top-0 z-50 border-b border-white/10 bg-[#080d16]/25 backdrop-blur-xl">
 <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 md:px-6">
 <Link
 href="/"
@@ -167,41 +169,33 @@ Request Quote
 
 {/* Hero with NorthVex logo background */}
 <section className="relative flex min-h-screen items-center overflow-hidden px-6 pb-20 pt-32">
-<div className="absolute inset-0">
-<img
-src="logo.jpg"
-alt="NorthVex Global LLC"
-className="h-full w-full object-cover object-center"
-/>
 
-<div className="absolute inset-0 bg-[#080d16]/35" />
+<div className="absolute inset-0 bg-[#080d16]/10" />
 
-<div className="absolute inset-0 bg-gradient-to-r from-[#080d16]/75 via-[#080d16]/35 to-[#080d16]/15" />
+<div className="absolute inset-0 bg-gradient-to-r from-[#080d16]/90 via-[#080d16]/55 to-[#080d16]/25" />
 
-<div className="absolute inset-0 bg-gradient-to-t from-[#080d16] via-transparent to-[#080d16]/20" />
-</div>
+<div className="absolute inset-0 bg-gradient-to-t from-[#080d16] via-[#080d16]/20 to-transparent" />
 
-<div className="absolute left-1/3 top-1/3 h-96 w-96 rounded-full bg-blue-600/15 blur-[130px]" />
-
-<div className="relative mx-auto w-full max-w-7xl">
+<div className="relative mx-auto w-full max-w-7xl pl-6 md:pl-10 lg:pl-16">
 <div className="max-w-4xl">
 <div className="mb-7 inline-flex items-center gap-3 rounded-full border border-blue-400/30 bg-blue-500/10 px-4 py-2 text-sm font-semibold text-blue-200 backdrop-blur">
 <span className="h-2 w-2 rounded-full bg-blue-400" />
 Global Wholesale Solutions
 </div>
 
-<h1 className="max-w-4xl text-6xl md:text-7xl lg:text-8xl front-extrabold leading-[0.95] tracking-tight">
+<h1 className="max-w-4xl text-6xl md:text-7xl lg:text-8xl font-extrabold leading-[0.95] tracking-tight">
 Connecting businesses with{" "}
-<span className="text-blue-500">quality products.</span>
+<span className="text-blue-500">
+quality products.
+</span>
 </h1>
-
-<p className="mt-7 max-w-2xl text-lg leading-8 text-gray-200 md:text-xl">
+<p className="mt-8 max-w-2xl text-lg leading-9 text-gray-100 md:text-2x1">
 NorthVex Global LLC helps businesses source dependable wholesale
 products through responsive service, flexible solutions and
 long-term partnerships.
 </p>
 
-<div className="mt-10 flex flex-col gap-4 sm:flex-row">
+<div className="mt-14 flex flex-col gap-4 sm:flex-row">
 <Link
 href="/products"
 className="rounded-xl bg-blue-600 px-8 py-4 text-center font-bold transition hover:-translate-y-1 hover:bg-blue-500"

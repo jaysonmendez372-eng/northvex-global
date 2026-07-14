@@ -124,6 +124,7 @@ return matchesCategory && matchesSearch;
 
 return (
 <main className="min-h-screen bg-[#080d16] text-white">
+    
 {/* Navigation */}
 <header className="sticky top-0 z-50 border-b border-white/10 bg-[#080d16]/90 backdrop-blur-xl">
 <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 md:px-6">
