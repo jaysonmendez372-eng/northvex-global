@@ -139,7 +139,7 @@ sales@northvexglobal.com
 </div>
 
 <div className="rounded-3xl border border-white/10 bg-white/[0.04] p-7">
-<p className="font-semibold text-blue-400">Mi prueba</p>
+<p className="font-semibold text-blue-400">Phone</p>
 
 <p className="mt-2 text-lg font-semibold">
 +1(806) 450-9004
