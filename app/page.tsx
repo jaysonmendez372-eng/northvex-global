@@ -187,7 +187,7 @@ Global Wholesale Solutions
 Discover{" "}
 <span className="text-blue-500">
 Quality Products
-</span>
+</span>{" "}
 For Your Business.
 </h1>
 <p className="mt-8 max-w-2xl text-lg leading-9 text-gray-100 md:text-2x1">
