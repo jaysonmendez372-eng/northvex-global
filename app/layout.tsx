@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-title: "NorthVex Global LLC",
-description: "Reliable wholesale sourcing and global business solutions.",
+title: "NorthVex Global | Internatiol Trade & Business Solutions",
+description: "NorthVex Global connects businesse, buyers,and suppliers through international trade, sourcing import-expert, and business development solutions.",
 openGraph: {
-title: "NorthVex Global LLC",
+title: "NorthVex Global connects businesses, buyers, and suppliers through international trade, sourcing, import-export, and business development solutions.",
 description: "Reliable wholesale sourcing and global business solutions.",
 images: ["/logo.jpg"],
 },
