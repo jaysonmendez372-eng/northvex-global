@@ -184,10 +184,11 @@ Global Wholesale Solutions
 </div>
 
 <h1 className="max-w-4xl text-6xl md:text-7xl lg:text-8xl font-extrabold leading-[0.95] tracking-tight">
-Connecting businesses with{" "}
+Discover{" "}
 <span className="text-blue-500">
-quality products.
+Quality Products
 </span>
+For Your Business.
 </h1>
 <p className="mt-8 max-w-2xl text-lg leading-9 text-gray-100 md:text-2x1">
 NorthVex Global LLC helps businesses source dependable wholesale
