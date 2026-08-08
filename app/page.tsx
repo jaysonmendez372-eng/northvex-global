@@ -191,9 +191,7 @@ Quality Products
 For Your Business.
 </h1>
 <p className="mt-8 max-w-2xl text-lg leading-9 text-gray-100 md:text-2x1">
-NorthVex Global LLC helps businesses source dependable wholesale
-products through responsive service, flexible solutions and
-long-term partnerships.
+NorthVex Global helps businesses discover quality products, connect with trusted suppliers, and access flexible sourcing solutions built for long-term growth.
 </p>
 
 <div className="mt-14 flex flex-col gap-4 sm:flex-row">
