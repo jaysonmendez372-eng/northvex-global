@@ -130,12 +130,9 @@ quotation, our team is ready to assist you.
 <div className="rounded-3xl border border-white/10 bg-white/[0.04] p-7">
 <p className="font-semibold text-blue-400">Email</p>
 
-<a
-href="mailto:sales@northvexglobal.com"
-className="mt-2 block text-lg font-semibold transition hover:text-blue-400"
->
+<span className="mt-2 block text-lg font-semibold transition hover:text-blue-400">
 sales@northvexglobal.com
-</a>
+</span>
 </div>
 
 <div className="rounded-3xl border border-white/10 bg-white/[0.04] p-7">
