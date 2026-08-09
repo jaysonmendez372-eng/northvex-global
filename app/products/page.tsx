@@ -65,7 +65,7 @@ category: "Electronics",
 description:
 "Charging equipment, electronic accessories and practical technology for businesses.",
 image:
-"https://images.unsplash.com/photo-1498049794561-7780e723166f?auto=format&fit=crop&w=1200&q=85",
+"https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=85",
 status: "Available for Quote",
 badge: "New Arrival",
 },
