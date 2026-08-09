@@ -22,7 +22,7 @@ description:
 "Corrugated boxes, protective materials and packaging supplies for commercial operations.",
 image:
 "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=85",
-status: "In Stock",
+status: "Coming Soon",
 badge: "Best Seller",
 },
 {
@@ -44,7 +44,7 @@ description:
 "Reliable industrial products for warehouses, facilities and manufacturing operations.",
 image:
 "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1200&q=85",
-status: "Available for Quote",
+status: "Coming Soon",
 badge: "Featured",
 },
 {
@@ -55,7 +55,7 @@ description:
 "Professional-grade tools and hardware for commercial and industrial applications.",
 image:
 "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?auto=format&fit=crop&w=1200&q=85",
-status: "In Stock",
+status: "Coming Soon",
 badge: "Best Seller",
 },
 {
@@ -66,7 +66,7 @@ description:
 "Charging equipment, electronic accessories and practical technology for businesses.",
 image:
 "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=85",
-status: "Available for Quote",
+status: "Coming Soon",
 badge: "New Arrival",
 },
 {
